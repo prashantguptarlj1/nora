@@ -5,3 +5,4 @@ adding here to create conflict from local
 adding here to create conflict from remote
 
 pull1
+pull2 remote

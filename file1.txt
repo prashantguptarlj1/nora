@@ -6,3 +6,4 @@ adding here to create conflict from remote
 
 pull1
 pull 2 local
+pull2 remote

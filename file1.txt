@@ -8,3 +8,4 @@ pull1
 pull 2 local
 pull2 remote
 adding content 1
+adding content 2

@@ -10,3 +10,4 @@ pull2 remote
 adding content 1
 adding content 2
 adding content 3 from local repo
+adding content 4

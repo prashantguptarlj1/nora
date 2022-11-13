@@ -14,3 +14,7 @@ adding content 4
 
 line 15 is added remotely
 creating conflict here locally
+line 16
+lien 17
+ccreating conflict in line 18 remotely
+resolved conflict
